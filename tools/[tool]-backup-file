@@ -1,0 +1,9 @@
+#!/bin/sh
+# [Gedit Tool]
+# Input=document
+# Save-files=document
+# Name=[tool] backup file
+# Applicability=all
+# Output=output-panel
+
+cp $GEDIT_CURRENT_DOCUMENT_PATH $GEDIT_CURRENT_DOCUMENT_PATH.bak

@@ -1,0 +1,9 @@
+#!/bin/bash
+# [Gedit Tool]
+# Input=selection
+# Save-files=nothing
+# Name=[tool] open in gedit
+# Applicability=all
+# Output=output-panel
+
+/usr/bin/gedit --new-window $GEDIT_CURRENT_SELECTION

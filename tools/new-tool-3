@@ -1,0 +1,11 @@
+#!/bin/bash
+# [Gedit Tool]
+# Input=nothing
+# Save-files=nothing
+# Name=[cpp or c] compile then run
+# Applicability=all
+# Output=output-panel
+
+gcc $GEDIT_CURRENT_DOCUMENT_NAME -o ${GEDIT_CURRENT_DOCUMENT_NAME%.*}
+DESU=`echo ${GEDIT_CURRENT_DOCUMENT_NAME}|cut -d "." -f 1`
+xterm -hold -e ./$DESU --working-directory=$GEDIT_CURRENT_DOCUMENT_DIR

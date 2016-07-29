@@ -1,0 +1,12 @@
+#!/bin/sh
+# [Gedit Tool]
+# Input=nothing
+# Save-files=nothing
+# Name=[tool] drive details
+# Applicability=all
+# Output=output-panel
+
+DRIVEPATH=$GEDIT_CURRENT_DOCUMENT_DIR
+
+stat -f $DRIVEPATH
+ 

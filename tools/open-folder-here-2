@@ -1,0 +1,10 @@
+#!/bin/sh
+# [Gedit Tool]
+# Name=[browse] browse $PWD as thioshp
+# Shortcut=<Primary><Shift><Alt>t
+# Applicability=all
+# Output=output-panel
+# Input=nothing
+# Save-files=nothing
+
+/usr/bin/nemo --no-desktop $GEDIT_CURRENT_DOCUMENT_DIR

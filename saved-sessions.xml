@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<saved-sessions>
+<session name="bashish">
+  <file path="file:///home/thioshp/bin/bashish-sync-problem-solution.txt"/>
+  <file path="file:///home/thioshp/share/bashish/main/prompt/sh/init"/>
+  <file path="file:///home/thioshp/share/bashish/main/bashish/sys/update"/>
+  <file path="file:///home/thioshp/share/bashish/main/terminal/templates/gnome-terminal/schema"/>
+  <file path="file:///home/thioshp/share/bashish/main/terminal/init"/>
+  <file path="file:///home/thioshp/share/bashish/bashish-version"/>
+  <file path="file:///home/thioshp/share/bashish/defaults/prompt.rc"/>
+  <file path="file:///home/thioshp/share/bashish/defaults/prompt.csh"/>
+  <file path="file:///home/thioshp/share/bashish/defaults/prompt.sh"/>
+  <file path="file:///home/thioshp/share/bashish/defaults/theme"/>
+  <file path="file:///home/thioshp/share/doc/bashish/HACKING"/>
+  <file path="file:///home/thioshp/share/doc/bashish/README"/>
+</session>
+<session name="bashish-git-repo">
+  <file path="file:///home/thioshp/installers/bashish-installer/bashish_terminal_themer/mkdeb"/>
+  <file path="file:///home/thioshp/installers/bashish-installer/bashish_terminal_themer/data/bashish-version"/>
+  <file path="file:///home/thioshp/installers/bashish-installer/bashish_terminal_themer/configure"/>
+  <file path="file:///home/thioshp/installers/bashish-installer/bashish_terminal_themer/README"/>
+  <file path="file:///home/thioshp/installers/bashish-installer/bashish_terminal_themer/INSTALL"/>
+  <file path="file:///home/thioshp/installers/bashish-installer/bashish_terminal_themer/autogen.sh"/>
+  <file path="file:///home/thioshp/installers/bashish-installer/bashish_terminal_themer/bashish_2.2.4-1bashish_amd64.build"/>
+  <file path="file:///home/thioshp/installers/bashish-installer/bashish_terminal_themer/bashish.spec"/>
+  <file path="file:///home/thioshp/installers/bashish-installer/bashish_terminal_themer/bashish.spec.in"/>
+</session>
+<session name="btsyncgui">
+  <file path="file:///home/thioshp/.btsync/.btsynconfig"/>
+  <file path="file:///media/thioshp/9GBDRIVE/btsyncdirectories/camera%20backup%20link.txt"/>
+  <file path="file:///home/thioshp/.btsync/btsync-gui.log"/>
+  <file path="file:///home/thioshp/.config/btsync/btsync-gui.conf"/>
+  <file path="file:///home/thioshp/.btsync/.btsyncofig~"/>
+  <file path="file:///home/thioshp/.config/btsync/btsync-gui.prefs"/>
+  <file path="file:///home/thioshp/.config/btsync/btsync-gui.log"/>
+  <file path="file:///home/thioshp/.bashrc"/>
+  <file path="file:///home/thioshp/.btsync/history.dat"/>
+  <file path="file:///home/thioshp/.btsync/debug.txt"/>
+</session>
+<session name="conkyfiles">
+  <file path="file:///home/thioshp/bin/conky-control"/>
+  <file path="file:///home/thioshp/.conky.email"/>
+  <file path="file:///home/thioshp/.Conky-eOS"/>
+  <file path="file:///home/thioshp/.conkyForecast.config"/>
+  <file path="file:///home/thioshp/.conky_grey.lua"/>
+  <file path="file:///home/thioshp/.conkyrc"/>
+  <file path="file:///home/thioshp/.conkyrc.default"/>
+  <file path="file:///home/thioshp/.conkyrc.default2"/>
+  <file path="file:///home/thioshp/.conkyrc.google-now"/>
+  <file path="file:///home/thioshp/.conkyrc.gray"/>
+  <file path="file:///home/thioshp/.conkyrc.gray.scale"/>
+  <file path="file:///home/thioshp/.conkyrc.pressian"/>
+  <file path="file:///home/thioshp/.conkyrc-DEFAULT"/>
+  <file path="file:///home/thioshp/.conkyrc-mpd"/>
+  <file path="file:///home/thioshp/.conkyrc-OLD"/>
+</session>
+<session name="contacts">
+  <file path="file:///media/thioshp/BACKUPS/Contacts/00002.vcf"/>
+  <file path="file:///media/thioshp/BACKUPS/Contacts/00001.vcf"/>
+</session>
+<session name="ftp@thioshp">
+  <file path="ftp://192.168.1.93/ftuploads/ftp_connection_details.txt"/>
+</session>
+<session name="gedit-tools">
+  <file path="file:///home/thioshp/.gnome2/gedit/tools/launch-in-web-browser"/>
+  <file path="file:///home/thioshp/.gnome2/gedit/tools/make-executable"/>
+  <file path="file:///home/thioshp/.gnome2/gedit/tools/open-terminal-here"/>
+  <file path="file:///home/thioshp/.gnome2/gedit/tools/open-folder-here"/>
+</session>
+<session name="mountstuff">
+  <file path="file:///home/thioshp/bin/mountfiso"/>
+  <file path="file:///home/thioshp/bin/mountiso"/>
+  <file path="file:///home/thioshp/bin/umountfiso"/>
+  <file path="file:///home/thioshp/.local/share/nemo/scripts/ISO/FuseMountISO"/>
+  <file path="file:///home/thioshp/.local/share/nemo/scripts/ISO/FuseUnMountISO"/>
+  <file path="file:///home/thioshp/.local/share/nemo/scripts/ISO/MountISO"/>
+  <file path="file:///home/thioshp/.local/share/nemo/scripts/ISO/MountISO2"/>
+  <file path="file:///home/thioshp/.local/share/nemo/scripts/ISO/UnmountISO"/>
+  <file path="file:///home/thioshp/.local/share/nemo/scripts/ISO/UnmountISO2"/>
+</session>
+<session name="mpv-stuff">
+  <file path="file:///home/thioshp/public_html/help-files/all-linux-docs/mpv/tools/lib/Parse/Matroska.pm"/>
+  <file path="file:///home/thioshp/public_html/help-files/all-linux-docs/mpv/tools/umpv"/>
+  <file path="file:///home/thioshp/bin/umpv"/>
+  <file path="file:///home/thioshp/bin/mpv_identify"/>
+  <file path="file:///home/thioshp/public_html/help-files/all-linux-docs/mpv/tools/lua/README.md"/>
+  <file path="file:///home/thioshp/public_html/help-files/all-linux-docs/mpv/tools/appveyor-build.sh"/>
+  <file path="file:///home/thioshp/public_html/help-files/all-linux-docs/mpv/tools/appveyor-install.sh"/>
+  <file path="file:///home/thioshp/public_html/help-files/all-linux-docs/mpv/tools/stats-conv.py"/>
+  <file path="file:///home/thioshp/public_html/help-files/all-linux-docs/mpv/tools/matroska.pl"/>
+  <file path="file:///home/thioshp/public_html/help-files/all-linux-docs/mpv/tools/travis-deps"/>
+  <file path="file:///home/thioshp/public_html/help-files/all-linux-docs/mpv/tools/lua/status-line.lua"/>
+  <file path="file:///home/thioshp/public_html/help-files/all-linux-docs/mpv/tools/dylib-unhell.py"/>
+  <file path="file:///home/thioshp/public_html/help-files/all-linux-docs/mpv/tools/lua/cycle-deinterlace-pullup.lua"/>
+</session>
+<session name="npp-plugins">
+  <file path="file:///home/thioshp/.wine/drive_c/users/thioshp/Application%20Data/Notepad++/plugins/doc/NppScripts/readme.txt"/>
+  <file path="file:///home/thioshp/.wine/drive_c/users/thioshp/Application%20Data/Notepad++/plugins/doc/NppScripts/samples/automation.cs"/>
+  <file path="file:///home/thioshp/.wine/drive_c/users/thioshp/Application%20Data/Notepad++/plugins/config/NppScripts.ini"/>
+  <file path="file:///home/thioshp/.wine/drive_c/users/thioshp/Application%20Data/Notepad++/plugins/doc/NppScripts/samples/Npp.000.New%20Script.cs"/>
+  <file path="file:///home/thioshp/.wine/drive_c/users/thioshp/Temp/nsl5437.tmpMoboInstall/conf.ini"/>
+  <file path="file:///home/thioshp/.wine/drive_c/users/thioshp/Application%20Data/Notepad++/plugins/doc/NppScripts/samples/Npp.241.Dev.cs"/>
+  <file path="file:///home/thioshp/.wine/drive_c/users/thioshp/Application%20Data/Notepad++/plugins/doc/NppScripts/samples/Npp.230.Command%20Prompt.cs"/>
+  <file path="file:///home/thioshp/.wine/drive_c/users/thioshp/Application%20Data/Notepad++/plugins/config/MultiClipboard.xml"/>
+  <file path="file:///home/thioshp/.wine/drive_c/users/thioshp/Application%20Data/Notepad++/plugins/config/converter.ini"/>
+  <file path="file:///home/thioshp/.wine/drive_c/users/thioshp/Application%20Data/Notepad++/plugins/config/Explorer.ini"/>
+  <file path="file:///home/thioshp/.wine/drive_c/users/thioshp/Application%20Data/Notepad++/plugins/config/PluginManager.ini"/>
+  <file path="file:///home/thioshp/.wine/drive_c/users/thioshp/Application%20Data/Notepad++/plugins/config/RunMe.ini"/>
+  <file path="file:///home/thioshp/.wine/drive_c/users/thioshp/Temp/nsl5437.tmpMoboInstall/npp-debug-info.txt"/>
+  <file path="file:///home/thioshp/.wine/drive_c/users/thioshp/Application%20Data/Notepad++/plugins/doc/NppFTP/Readme.txt"/>
+</session>
+<session name="owncloud@cinnamon">
+  <file path="file:///home/thioshp/logs/owncloud_logs/owncloud-log.log"/>
+  <file path="file:///home/thioshp/logs/owncloud_logs/owncloud.log.1"/>
+  <file path="file:///home/thioshp/logs/owncloud_logs/owncloud.log.2"/>
+  <file path="file:///home/thioshp/logs/owncloud_logs/owncloud.log.3"/>
+  <file path="file:///home/thioshp/logs/owncloud_logs/owncloud.log.4"/>
+  <file path="file:///home/thioshp/logs/owncloud_logs/owncloud.log.5"/>
+  <file path="file:///home/thioshp/logs/owncloud_logs/owncloud.log.6"/>
+</session>
+<session name="php4pastebin">
+  <file path="file:///home/thioshp/git-repos/Brush/Brush_How_To.md"/>
+  <file path="file:///home/thioshp/git-repos/Brush/Brush.php"/>
+  <file path="file:///home/thioshp/git-repos/Brush/Examples/CreateAnonymousPaste.php"/>
+  <file path="file:///home/thioshp/git-repos/Brush/Examples/CreatePrivatePaste.php"/>
+  <file path="file:///home/thioshp/git-repos/Brush/Examples/DeletePastes.php"/>
+  <file path="file:///home/thioshp/git-repos/Brush/Examples/GetTrendingPastes.php"/>
+  <file path="file:///home/thioshp/git-repos/Brush/Examples/ListAccountPastes.php"/>
+  <file path="file:///home/thioshp/git-repos/Brush/Examples/ShowAccountInfo.php"/>
+  <file path="file:///home/thioshp/git-repos/Brush/Examples/ShowAccountPastes.php"/>
+</session>
+</saved-sessions>

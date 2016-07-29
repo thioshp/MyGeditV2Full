@@ -1,0 +1,9 @@
+#!/bin/sh
+# [Gedit Tool]
+# Input=nothing
+# Save-files=nothing
+# Name=[info] list current directory
+# Applicability=all
+# Output=new-document
+
+busybox ls -l -h $GEDIT_CURRENT_DOCUMENT_DIR

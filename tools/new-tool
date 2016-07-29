@@ -1,0 +1,10 @@
+#!/bin/sh
+# [Gedit Tool]
+# Name=[browse] browse $PWD as root
+# Shortcut=<Primary><Shift>b
+# Applicability=all
+# Output=output-panel
+# Input=nothing
+# Save-files=nothing
+
+gksu /usr/bin/nemo $GEDIT_CURRENT_DOCUMENT_DIR

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<snippets language="sh">
+  <snippet override="sh-for">
+    <text><![CDATA[for (( ${1:i = 0}; ${2:i < 10}; ${3:i++} )); do
+	$0
+done]]></text>
+    <tag>for</tag>
+    <description>for .. done</description>
+    <accelerator><![CDATA[<Primary><Alt>f]]></accelerator>
+  </snippet>
+</snippets>

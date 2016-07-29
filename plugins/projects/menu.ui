@@ -1,0 +1,9 @@
+<ui>
+    <popup name="popup_project">
+        <menuitem name="menuitem_open_directory" action="action_open_directory"/>
+        <menuitem name="menuitem_open_file" action="action_open_file"/>
+        <separator/>
+        <menuitem name="menuitem_refresh" action="action_refresh"/>
+    </popup>
+</ui>
+

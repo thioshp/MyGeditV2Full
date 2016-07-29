@@ -1,0 +1,10 @@
+#!/bin/sh
+# [Gedit Tool]
+# Name=[internet] open in web browser
+# Languages=html
+# Applicability=all
+# Output=output-panel
+# Input=document
+# Save-files=nothing
+
+/usr/bin/opera $GEDIT_CURRENT_DOCUMENT_PATH

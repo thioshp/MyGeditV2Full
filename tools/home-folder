@@ -1,0 +1,10 @@
+#!/bin/sh
+# [Gedit Tool]
+# Name=[browse] browse $HOME
+# Shortcut=<Primary><Shift><Alt>h
+# Applicability=all
+# Output=output-panel
+# Input=nothing
+# Save-files=nothing
+
+/usr/bin/nemo --no-desktop $GEDIT_FILE_BROWSER_ROOT

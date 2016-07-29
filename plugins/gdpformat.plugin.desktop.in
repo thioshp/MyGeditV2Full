@@ -1,0 +1,9 @@
+[Plugin]
+Loader=python
+Module=gdpformat
+IAge=3
+_Name=GDP format
+_Description=Format text and code.
+Authors=Curtis Hovey <sinzui.is@verizon.net>
+Copyright=Copyright © 2009-2012 Curtis Hovey
+Website=http://launchpad.net/gdp

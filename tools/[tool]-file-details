@@ -1,0 +1,24 @@
+#!/bin/sh
+# [Gedit Tool]
+# Input=document
+# Save-files=nothing
+# Name=[tool] file details
+# Applicability=all
+# Output=output-panel
+
+#Language: Any
+#Requires: Shell
+#Menu Name: File Properties
+#Description: Path, size (bytes), date and time for a file. Output like:
+
+#Input: Current document
+#Output: Display in bottom pane
+#Applicability: All documents
+
+FILE=$GEDIT_CURRENT_DOCUMENT_NAME
+if [ $FILE ]; then  # has a file been opened yet?
+    echo `pwd`/$FILE  # poor mans realpath(1) (rarely installed)
+    echo `ls -l --full-time $FILE | cut -d " " -f 5` bytes
+    time=`ls -l --full-time $FILE | cut -d " " -f 6,7`
+    echo $time | sed 's/\(.*\)\..*/\1/'  # cut off fraction of second
+fi

@@ -1,0 +1,16 @@
+#!/bin/sh
+# [Gedit Tool]
+# Name=[java] compile then run
+# Languages=java
+# Applicability=all
+# Output=output-panel
+# Input=nothing
+# Save-files=nothing
+
+cd $GEDIT_CURRENT_DOCUMENT_DIR
+if javac $GEDIT_CURRENT_DOCUMENT_NAME;
+then
+	java ${GEDIT_CURRENT_DOCUMENT_NAME%\.java}
+else
+	echo "Failed to compile"
+fi

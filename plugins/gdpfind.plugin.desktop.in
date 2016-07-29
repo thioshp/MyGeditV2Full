@@ -1,0 +1,9 @@
+[Plugin]
+Loader=python
+Module=gdpfind
+IAge=3
+_Name=GDP Find
+_Description=Find matching text in multiple files.
+Authors=Curtis Hovey <sinzui.is@verizon.net>
+Copyright=Copyright © 2008-2012 Curtis Hovey
+Website=http://launchpad.net/gdp

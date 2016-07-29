@@ -1,0 +1,9 @@
+[Gedit Plugin]
+Loader=python
+Module=eddt
+IAge=2
+Name=Eddt
+Description=A directory browsing plugin written in Python for the Gnome text editor, gedit.
+Authors=Michael Diolosa <michael@mbrio.org>
+Copyright=Copyright © 2006 Michael Diolosa <michael@mbrio.org>
+Website=http://eddt.mbrio.org

@@ -1,0 +1,10 @@
+#!/bin/bash
+# [Gedit Tool]
+# Input=selection
+# Save-files=nothing
+# Name=[tool] grepall
+# Applicability=all
+# Output=output-panel
+
+search=`xargs -0 echo`
+$HOME/bin/grepall -e `echo $GEDIT_CURRENT_DOCUMENT_NAME | cut -d. -f2` "$search"

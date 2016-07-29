@@ -1,0 +1,10 @@
+#!/bin/sh
+# [Gedit Tool]
+# Name=[tool] dict lookup
+# Shortcut=<Primary><Alt>d
+# Applicability=all
+# Output=output-panel
+# Input=word
+# Save-files=nothing
+
+curl dict://dict.org/d:$GEDIT_CURRENT_WORD

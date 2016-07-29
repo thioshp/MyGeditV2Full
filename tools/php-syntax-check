@@ -1,0 +1,9 @@
+#!/bin/sh
+# [Gedit Tool]
+# Input=document
+# Output=output-panel
+# Name=[php] php syntax check
+# Applicability=all
+# Save-files=document
+
+/opt/lampp/bin/php -s $GEDIT_CURRENT_DOCUMENT_PATH

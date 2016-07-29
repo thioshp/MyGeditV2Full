@@ -1,0 +1,9 @@
+[Plugin]
+Loader=python
+Module=gdpcomplete
+IAge=3
+_Name=GDP Completions
+_Description=Complete words and symbols at the cursor.
+Authors=Curtis Hovey <sinzui.is@verizon.net>
+Copyright=Copyright © 2007-2012 Curtis Hovey
+Website=http://launchpad.net/gdp

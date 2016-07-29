@@ -1,0 +1,42 @@
+#!/bin/bash
+# [Gedit Tool]
+# Input=document
+# Output=output-panel
+# Name=[tool] file info
+# Applicability=all
+# Save-files=document
+
+
+#FILENAME=$(zenity --file-selection --title="Select file to be evaluated:")
+FILENAME=$GEDIT_CURRENT_DOCUMENT_PATH
+
+fname="$(stat -c%n "$FILENAME")"
+# Same as ""$FILENAME"" of course
+fowner="$(stat -c%U "$FILENAME")"
+fsize="$(stat -c%s "$FILENAME")"
+# Certainly easier than using "ls -l "$FILENAME""
+## and then parsing with sed
+finode="$(stat -c%i "$FILENAME")"
+ftype="$(stat -c%F "$FILENAME")"
+faccess_rights="$(stat -c%a "$FILENAME")"
+faccess_rights2="$(stat -c%A "$FILENAME")"
+fgid="$(stat -c%g "$FILENAME")"
+fgrn="$(stat -c%G "$FILENAME")"
+flast="$(stat -c%x "$FILENAME")"
+fmod="$(stat -c%y "$FILENAME")"
+
+echo "##################FILE OR DIRECTORY INFO###################"
+echo -e "File path:\t\t"$fname" "
+echo -e "File owner (Name):\t"$fowner" "
+echo -e "File owner (GID):\t"$fgid" "
+echo -e "File owner (Group Name):"$fgrn" "
+echo -e "File size:\t\t"$fsize" bytes"
+echo -e "File inode:\t\t"$finode" "
+echo -e "File type:\t\t"$ftype" "
+echo -e "Octal permissions:\t"$faccess_rights" "
+echo -e "Permissions:\t\t"$faccess_rights2" "
+echo -e "Last accessed:\t\t"$flast" "
+echo -e "Last modified:\t\t"$fmod" "
+echo -e "###########################################################"
+
+exit 0

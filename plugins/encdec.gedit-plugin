@@ -1,0 +1,10 @@
+[Gedit Plugin]
+Loader=python
+Module=encdec
+IAge=2
+Name=encdecplugin
+Description=Encode,decode and hash text strings
+Authors=Jacques Louw
+Copyright=Copyright © 2010 Jacques Louw
+Website=http://encdecplugin.sourceforge.net/
+Version=0.3.0

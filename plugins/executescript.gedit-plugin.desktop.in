@@ -1,0 +1,9 @@
+[Gedit Plugin]
+Module=executescript
+IAge=2
+_Name=Execute Script
+_Description=Make executable a script. 
+Icon=gedit-plugin
+Authors=Romain Mars <rom_49@hotmail.com>
+Copyright=Copyright © 2009-2010 Romain Mars
+Website=http://www.gedit.org
