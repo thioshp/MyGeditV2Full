@@ -1,12 +1,18 @@
+# MyGeditV2Full
+
 # Table of Contents
 
-# Description
-Collection of plugins, tools, color schemes and snippets that will improve your productivity in using Gedit2
+1. [Description](#description)
+2. [Implementation](#implementation)
 
-1. [Implementation](#implementation)
-	1.1 [Dependencies] (#Dependencies)
-	1.2 [Installation](#installation)
-2. [License](#license)
+	2.1 [Dependencies](#Dependencies)
+
+	2.2 [Installation](#installation)
+
+3. [License](#license)
+
+# Description
+This is Gedit Version 2 plus a collection of plugins, tools, color schemes and snippets.
 
 **[Back to top](#table-of-contents)**
 
@@ -45,34 +51,13 @@ Enable plugins in gedit preferences, choose font (monaco, consolas or DejaVu San
 - **Text Tools** - Text Manipulation enhancements.
 - **Word completion** - Complete words.
 
-# Colour schemes
-Active4D.xml              Django (Smoothy).xml      Merbivore Soft.xml        Smurfy.xml                chela_light.xml           native.xml
-Airkitek.xml              Django.xml                Merbivore.xml             SpaceCadedPro.xml         cobalt.xml                neon.xml
-All Hallow's Eve.xml      Eiffel.xml                Midnight.xml              SpaceCadet.xml            darkmacs.xml              oblivion.xml
-Amy.xml                   Emacs.xml                 Mono Industrial.xml       Spectacular.xml           darkmate.xml              railscasts.xml
-Argonaut.xml              Espresso Libre.xml        Monokai.xml               Stoneship.xml             desert.xml                railscasts_manual.xml
-BBEdit.xml                Fade to Grey.xml          Neopro.xml                Sunburst.xml              dreamweaver.xml           rainbow_neon.xml
-Bespin.xml                ForLaTeX.xml              Notepad2.xml              Swyphs II.xml             dusk.xml                  rubycius-mod.xml
-Black Pearl II.xml        GitHub.xml                Pastels on Dark.xml       Tango.xml                 eclips3.media (ECLM).xml  ryan-light.xml
-Black Pearl.xml           GlitterBomb.xml           PhilGeek.xml              Tek.xml                   emacs.xml                 slush_and_poppies.xml
-Blackboard.xml            Gmate.xml                 PlasticCodeWrap.xml       Text Ex Machina.xml       emacs_dark.xml            textmate.xml
-BoysAndGirls01.xml        GmateLight.xml            Plum Dumb.xml             Tinge.xml                 emacs_mod.xml             twilight.xml
-Brilliance Black.xml      IDLE.xml                  RDark.xml                 Travis Jeffery.xml        fluffy.xml                twilight_mod.xml
-Brilliance Dull.xml       IR_Black.xml              Railscasts.xml            Twilight.xml              fruity.xml                vibrant_fun.xml
-Choco.xml                 IR_White.xml              Ruby Blue.xml             Vibrant Ink.xml           iLife 05.xml              vibrant_ink.xml
-Classic Modified.xml      LAZY.xml                  Ruby Robot.xml            Whys Poignant.xml         iPlastic.xml              vibrant_nerd.xml
-CodeZone.xml              Lowlight.xml              RubyRobot.xml             Zenburnesque.xml          idle.xml                  vibrantink.xml
-Cool Glow.xml             Mac Classic.xml           Rubycius.xml              autumn.xml                idleFingers.xml           warm_grey.xml
-Daltonism.xml             MagicWB (Amiga).xml       Slate.xml                 barf.xml                  ironman.xml               wombat.xml
-Dawn.xml                  Matrix.xml                Slush & Poppies.xml       blue_dream.xml            minimal_Theme.xml         zenburn.xml
-
 # Extras
 
 Don't forget about plugins from gedit standard distribution:
 
 - Snippets
 
-Additional snippets(to browse them use snippet browser):
+Additional snippets(to browse them use snippeSt browser):
 
 - CSS
 - [Cucumber]
